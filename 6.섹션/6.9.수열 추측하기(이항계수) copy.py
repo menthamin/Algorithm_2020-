@@ -1,8 +1,7 @@
 # 참고 : https://shoark7.github.io/programming/algorithm/3-ways-to-get-binomial-coefficients
 
 import sys
-sys.stdin=open("input.txt", "r")
-
+# sys.stdin=open("input.txt", "r")
 
 def factorial(n):
     res = 1
